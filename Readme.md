@@ -38,13 +38,13 @@ Sunday                   3 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Verilog** 
@@ -58,5 +58,5 @@ MATLAB                   1 repo              ██████░░░░░�
 
 
 
- Last Updated on 26/08/2025 18:46:05 UTC
+ Last Updated on 27/08/2025 18:44:19 UTC
 <!--END_SECTION:waka-->
