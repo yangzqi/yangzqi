@@ -9,7 +9,7 @@ I'm **Zeqi Yang**, a first-year master's student at the **School of Microelectro
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -58,5 +58,5 @@ MATLAB                   1 repo              ██████░░░░░�
 
 
 
- Last Updated on 01/09/2025 18:44:24 UTC
+ Last Updated on 02/09/2025 18:44:26 UTC
 <!--END_SECTION:waka-->
